@@ -2,6 +2,9 @@
 
 **Ultimate Gym Training App** is a modern, fully responsive web application designed to help users optimize their fitness journey. Built with React and styled using TailwindCSS, this app offers a sleek and intuitive user experience that allows users to track their workouts, set fitness goals, and monitor their progress. Whether you're just starting your fitness journey or you're a seasoned gym-goer, this app is designed to help you stay motivated and organized in your workout routine.
 
+👉 [https://workoutwizard1.netlify.app/](https://workoutwizard1.netlify.app)
+
+
 ## Key Features:
 
 - **Personalized Workout Plans:** Users can create and customize workout routines tailored to their specific fitness goals, such as strength training, weight loss, or muscle gain.
